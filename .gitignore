@@ -1,0 +1,7 @@
+# Ignore temp/system/deployment files
+.env
+*.tfstate
+*.tfstate.backup
+__pycache__/
+*.log
+node_modules/
